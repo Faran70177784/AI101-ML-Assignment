@@ -1,0 +1,7 @@
+Sample,Image,Category,Greedy Caption,Beam Caption (k=5),Reference Caption
+1,1003163366_44323f5815.jpg,Good Prediction,two men are sitting on a bench,a man and a woman are sitting on a bench,a man lays on a bench while his dog sits by him
+2,1007129816_e794419615.jpg,Good Prediction,a man in a black shirt and sunglasses is holding a <unk>,a man in a black shirt and sunglasses,a man in an orange hat starring at something
+3,1019077836_6fc9b15408.jpg,Good Prediction,a dog is jumping over a fence,a brown dog is playing with a red ball,a brown dog chases the water from a sprinkler on a lawn
+4,1022454428_b6b660a67b.jpg,Failure Mode,a man and a woman are sitting on a bench,a man and a woman sit on a bench,a couple and an infant being held by the male sitting next to a pond with a near by stroller
+5,103195344_5d2dc613a3.jpg,Failure Mode,a man is standing on a <unk> <unk>,a group of people are sitting on a bench,a man in black is sitting next to a modern art structure in front of a glass building
+6,1032460886_4a598ed535.jpg,Failure Mode,a man in a red shirt is standing in front of a large <unk>,a group of people are standing in front of a building,a man is standing in front of a skyscraper

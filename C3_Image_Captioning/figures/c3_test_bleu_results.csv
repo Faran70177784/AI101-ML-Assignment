@@ -1,0 +1,7 @@
+Model,Decoding,BLEU-1,BLEU-2,BLEU-3,BLEU-4,Distinct Words,Eval Time (s)
+Model 1 (Merge),Greedy,52.34,35.88,23.79,15.23,228,12.4
+Model 1 (Merge),Beam (k=3),58.45,40.76,27.83,18.54,235,55.2
+Model 1 (Merge),Beam (k=5),59.3,41.51,28.69,19.2,231,112.9
+Model 2 (Deep Residual),Greedy,59.7,41.76,28.63,18.86,213,14.3
+Model 2 (Deep Residual),Beam (k=3),61.69,43.63,30.57,20.73,225,74.4
+Model 2 (Deep Residual),Beam (k=5),62.46,44.37,31.23,21.25,218,153.4
