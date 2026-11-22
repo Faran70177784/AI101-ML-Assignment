@@ -1,0 +1,6 @@
+Model,Search Space,Selected Hyperparameters,CV RMSE (MPa),Test RMSE (MPa),Test MAE (MPa),Test R^2
+Linear Regression (Baseline),None (Analytical),StandardScaler + OLS,7.06 +/- 0.53,6.56,5.29,0.8329
+Polynomial Ridge,"degree in {1,2}, alpha in [0.01, 500]","{'poly__degree': 2, 'ridge__alpha': 0.01}",5.80,5.42,4.3,0.8862
+Random Forest,"n_est in {100,200}, max_depth in {None,12,18}","{'max_depth': 18, 'min_samples_leaf': 1, 'min_samples_split': 2, 'n_estimators': 200}",5.28,5.39,3.69,0.8874
+Gradient Boosting (GBDT),"n_est in {150,250}, lr in {0.05,0.1}, depth in {3,5}","{'learning_rate': 0.05, 'max_depth': 5, 'n_estimators': 250, 'subsample': 0.8}",4.70,4.45,2.94,0.923
+Multi-Layer Perceptron (MLP),"Architecture (64,32), alpha=0.01","hidden=(64,32), relu, adam",5.36 +/- 0.58,5.26,3.64,0.8926
