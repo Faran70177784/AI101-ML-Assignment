@@ -1,0 +1,6 @@
+Model,Raw RMSE (MPa),Raw R^2,Engineered RMSE (MPa),Engineered R^2,RMSE Improvement (%)
+Linear Regression,9.8,0.6276,6.56,0.8329,+33.01%
+Polynomial Ridge,7.44,0.7849,5.42,0.8862,+27.26%
+Random Forest,5.54,0.881,5.39,0.8874,+2.75%
+Gradient Boosting,4.54,0.92,4.45,0.923,+1.89%
+MLP Regressor,5.63,0.8769,5.26,0.8926,+6.62%
