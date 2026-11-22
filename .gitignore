@@ -1,0 +1,70 @@
+# Virtual Environments
+venv/
+.venv/
+env/
+ENV/
+ai-lab/
+
+# Python cache & artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints*/
+*/.ipynb_checkpoints/
+
+# Datasets (Strictly prohibited from GitHub repository)
+**/data/*.csv
+**/data/*.xlsx
+**/data/*.xls
+**/data/*.zip
+**/data/*.tar.gz
+**/data/*.json
+**/data/Images/
+**/data/Flickr8k_Dataset/
+**/data/Flickr8k_text/
+**/data/concrete/
+**/data/raw/
+**/data/processed/
+
+# Preserve dataset READMEs
+!**/data/README.md
+
+# Large Model Weights (> 50 MB)
+*.pt
+*.pth
+*.bin
+*.h5
+*.keras
+*.onnx
+*.pkl
+*.joblib
+**/models/*.pt
+**/models/*.pth
+**/models/*.bin
+**/models/*.h5
+**/models/*.keras
+
+# LaTeX build artifacts & temporary packages
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+*.toc
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.zip
+
+# OS specific files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE & Editor settings
+.vscode/
+.idea/
