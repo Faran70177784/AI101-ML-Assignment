@@ -113,9 +113,9 @@
 
 | Requirement ID | Description | Source Section | Target Location | Status | Verification Notes |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **GIT-01** | Private repository during development | Sec. 9, Step 2 | GitHub | `PENDING` | Phase 8 |
-| **GIT-02** | At least five meaningful commits per task | Sec. 9, Step 5 | Git commit history | `PENDING` | Tracked per task |
-| **GIT-03** | README.md complete with student table, task links, run instructions | Sec. 9, Step 6 | `README.md` | `VERIFIED / COMPLETED` | Initial template created |
-| **GIT-04** | Final submission tag: `git tag -a submission -m "Final submission - AI101 ML Assignment"` | Sec. 9, Step 7 | Git tags | `PENDING` | Phase 8 |
-| **GIT-05** | Repository made public at deadline & link verified in incognito window | Sec. 9, Step 8 | GitHub Settings | `PENDING` | Phase 8 |
-| **GIT-06** | Link shared with Class Representative (CR) for compiled Excel sheet | Sec. 9, Step 9 | CR Sheet | `PENDING` | Phase 8 |
+| **GIT-01** | Private repository during development | Sec. 9, Step 2 | GitHub | `READY` | Remote configured: `https://github.com/Faran70177784/AI101-ML-Assignment` |
+| **GIT-02** | At least five meaningful commits per task | Sec. 9, Step 5 | Git commit history | `VERIFIED / COMPLETED` | 18 commits recorded (5 for A2, 5 for B3, 5 for C3, 3 chore/release) |
+| **GIT-03** | README.md complete with student table, task links, run instructions | Sec. 9, Step 6 | `README.md` | `VERIFIED / COMPLETED` | Student details, SAP ID, report links, and run guide complete |
+| **GIT-04** | Final submission tag: `git tag -a submission -m "Final submission - AI101 ML Assignment"` | Sec. 9, Step 7 | Git tags | `VERIFIED / COMPLETED` | Annotated tag `submission` created on HEAD |
+| **GIT-05** | Repository made public at deadline & link verified in incognito window | Sec. 9, Step 8 | GitHub Settings | `READY` | Ready for push and public toggle at deadline |
+| **GIT-06** | Link shared with Class Representative (CR) for compiled Excel sheet | Sec. 9, Step 9 | CR Sheet | `READY` | Link ready: `https://github.com/Faran70177784/AI101-ML-Assignment` |
