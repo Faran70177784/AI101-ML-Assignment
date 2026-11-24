@@ -52,8 +52,8 @@ def create_b3_notebook():
 **Department:** Department of Intelligent Systems  
 **Course:** Introduction to Artificial Intelligence (AI-101) | Fall 2026  
 **Instructor:** Dr. Muhammad Awais, AI Architect  
-**Student:** [Student Name] | **Roll No:** [Roll Number] | **Section:** [Section]  
-**Repository:** https://github.com/[username]/AI101-ML-Assignment  
+**Student:** Syed Faran Ali | **Roll No:** 866770 | **SAP ID:** 70177784 | **Section:** Section A  
+**Repository:** https://github.com/Faran70177784/AI101-ML-Assignment  
 
 ---
 
